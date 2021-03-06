@@ -1,6 +1,6 @@
 # Bienvenido a este curso introductorio a Python :)
 
-El curso consiste en múltiples libretas de Jupyter que contienen un grupo de temas con sus respectivos conjuntos de ejercicios. **El formato es 100% a tu propio ritmo.**
+El curso consiste en múltiples libretas de Jupyter que contienen un grupo de temas, cada uno con su respectivo conjunto de ejercicios. **El formato es 100% a tu propio ritmo.**
 
 Soy la computadora 💻 y te invito a seguirme en [ig](http://instagram.com/compurerprincessist) y a leer mi [blog](https://computerprincessist.blogspot.com/). Además, puedes apoyarme comprandome un [café](https://www.buymeacoffee.com/oHcCBza) ☕ para seguir desarrollando este y otros recursos.
 
